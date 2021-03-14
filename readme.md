@@ -44,5 +44,3 @@ To run tests execute the testng.xml
 Test reports are formed by [Extent Reports](https://www.extentreports.com/).
 
 `/reports/` folder contains test results.
-
-
